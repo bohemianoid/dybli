@@ -1,0 +1,33 @@
+html.sorry #header {
+  display: none;
+}
+
+html.sorry #leftbar {
+  position: unset;
+}
+
+html.sorry .text {
+  margin-left: 2em;
+}
+
+html.sorry .text h1:first-of-type,
+html.sorry .text p {
+  margin-top: 0;
+}
+
+html.sorry .text p:last-child {
+  margin-bottom: 0;
+}
+
+html.sorry .text.active {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+html.sorry #wrapper {
+  display: flex;
+  height: 100vh;
+  margin-left: 0;
+  padding-bottom: 0;
+}

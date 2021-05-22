@@ -1,0 +1,217 @@
+#AreaMainContainer {
+  height: 100%;
+}
+
+#btnAbo,
+#btnSettingsArea {
+  display: none;
+}
+
+.columnRight {
+  padding-left: 0 !important;
+  width: unset !important;
+}
+
+#eWalletSaldoBox {
+  margin-bottom: 0 !important;
+  margin-left: 0.5625em;
+  width: 200px;
+}
+
+.fm_formcontainer {
+  margin-bottom: 0 !important;
+}
+
+.fm_formcontainer fieldset li:last-child {
+  margin-bottom: 0;
+}
+
+.fm_formfooter {
+  margin-bottom: 0 !important;
+}
+
+.line {
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+}
+
+#mailContent {
+  height: 100%;
+  overflow-y: auto;
+  padding-left: 0;
+}
+
+.navi {
+  height: 100%;
+  min-height: unset !important;
+  overflow-y: auto;
+}
+
+li.navSpaceTop {
+  margin-top: 0 !important;
+}
+
+#mainContent {
+  align-self: flex-start;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+#menu_newmessage {
+  display: none;
+}
+
+#os_content {
+  align-items: center;
+  display: flex !important;
+  justify-content: center;
+  height: 100vh;
+}
+
+.postIcon {
+  font-family: inherit !important;
+}
+
+#PrintWelcomePage {
+  display: none;
+}
+
+#SammyRouting {
+  min-height: 0;
+  flex-grow: 1;
+}
+
+.search {
+  width: 200px !important;
+}
+
+.spacer_ninetyeight {
+  display: none;
+}
+
+.switchBarBtn {
+  align-items: center;
+  display: flex;
+}
+
+.switchBarBtn [data-icon] {
+  font-size: 25px !important;
+  height: unset !important;
+}
+
+.switchBarBtn [data-icon]:before {
+  margin-left: 0 !important;
+  position: unset !important;
+}
+
+.switchBarBtn .epofIcon {
+  font-family: inherit !important;
+  line-height: inherit;
+}
+
+.switchBarBtn .epofIcon:before {
+  font-size: 27px !important;
+}
+
+.switchBarBtn > a {
+  height: unset !important;
+}
+
+.switchcontentsens {
+  margin-top: 7.5px;
+}
+
+.switchcontentsens > li {
+  border: none !important;
+}
+
+.tab_container {
+  display: none;
+}
+
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.u_button_secondary[href^="https://www.post.ch/"],
+.u_button_secondary[name="abort"] {
+  display: none !important;
+}
+
+.u_content_container {
+  flex-grow: 1;
+}
+
+.u_form_leftcolumn {
+  width: 100% !important;
+  margin-bottom: 0 !important;
+}
+
+.u_formcontainer {
+  max-width: 500px;
+}
+
+.u_formfooter {
+  margin-bottom: 0 !important;
+}
+
+.u_global_warning {
+  margin-bottom: 0 !important;
+  width: 100% !important;
+}
+
+.u_layout_content {
+  border-left: none !important;
+  box-shadow: none !important;
+  margin-left: 0 !important;
+  margin-top: 0 !important;
+  min-height: unset !important;
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
+.u_layout_footer {
+  display: none;
+}
+
+.u_layout_header {
+  display: none;
+}
+
+.u_layout_navigationbar {
+  display: none;
+}
+
+#u_maincontent {
+  padding-bottom: 0 !important;
+}
+
+.u_mod_breadcrumb {
+  display: none;
+}
+
+.u_mod_oscontainer {
+  display: none;
+}
+
+.u_mod_skiplinks {
+  display: none;
+}
+
+.u_page_header_content {
+  width: 100% !important;
+}
+
+.WelcomePageOptions {
+  margin-bottom: 14px !important;
+  margin-right: 0.5625em;
+  position: unset !important;
+}
+
+.welcomePageWallet {
+  align-items: center;
+  display: flex;
+  flex-direction: row-reverse;
+}

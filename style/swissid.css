@@ -1,0 +1,39 @@
+html.swissid body {
+  margin-bottom: 0;
+}
+
+html.swissid #footer {
+  display: none;
+}
+
+html.swissid .form-group:last-child {
+  margin-bottom: 0;
+}
+
+html.swissid .language-selector {
+  display: none !important;
+}
+
+html.swissid #login-base {
+  padding-bottom: 0;
+}
+
+html.swissid .login hr {
+  display: none;
+}
+
+html.swissid .navbar.navbar-main {
+  margin-top: 0;
+}
+
+html.swissid #registerLink {
+  display: none;
+}
+
+html.swissid #wrapper {
+  align-items: center;
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  margin-bottom: 0 !important;
+}

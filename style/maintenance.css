@@ -1,0 +1,14 @@
+html.maintenance .line {
+  display: none;
+}
+
+html.maintenance #mailContent {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 210px;
+}
+
+html.maintenance #mailContent .line:last-child {
+  display: block;
+}
